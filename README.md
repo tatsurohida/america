@@ -1,7 +1,7 @@
 # america
 お好きな画像でアメ/リカできます
 
-![result](https://github.com/tatsurohida/america/blob/media/demo.gif)
+![result](https://github.com/tatsurohida/america/blob/master/blob/media/demo.gif)
 
 
 ## 参考
